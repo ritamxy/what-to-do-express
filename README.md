@@ -4,4 +4,4 @@
 - Defult port: 2022
 - Test with Postman/curl/whatever you want
 - Include a readme in your forked repo if you changed anything in package.json or added any dependencies
-### Good Luck and enjoying Coding!
+### Good Luck and enjoying Coding! :grinning:
